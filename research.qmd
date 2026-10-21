@@ -1,17 +1,56 @@
 ---
 title: "Research"
 ---
-#### News
+### News
+
+- For the spring of 2027, I'll be based at RWTH Aachen.
+- We put out a [chapter](https://arxiv.org/abs/2605.18420) on arXiv for an upcoming book, Social Networks Beyond Pairwise Interactions, to appear in the [Computational Social Sciences series](https://link.springer.com/series/11784?srsltid=AfmBOoo-0ERcoBkTPgvEY_IPNPnGprCqFAo9QQyr-xyt4-VblFclRnYx) by Springer
 
 
-#### Publications
-
-Nicholas Landry, Jean-Gabriel Young, and Nicole Eikmeier. The Simpliciality of Higher Order Networks. EPJ Data Sci. 13, 17 (2024) doi: https://doi.org/10.1140/epjds/s13688-024-00458-1
-
-
-#### Summer MAPs
+### Summer MAPs
+::: {.column-margin}
+A Mentored Advanced Project (MAP) is the formal research program that students of Grinnell college can participate in.
+:::
 
 I am not planning on taking students for summer 2027. 
 
-#### 
+### Publications
 
+Timothy LaRock,
+Yanting Zhang,
+Jean-Gabriel Young,
+<b>NE</b>,
+Renaud Lambiotte, and
+Nicholas W. Landry. (Preprint) The nestedness of higher-order networks.  (2026) [arXiv](https://arxiv.org/abs/2605.18420)
+
+<b>NE</b> and Leah Perlmutter. Poster: Experiences Teaching a Course on Algorithms, Ethics, and Society. 2025 SIGCSE Technical Symposium. Pittsburgh, USA, (2025) [ACM](https://dl.acm.org/doi/10.1145/3641555.3705178)
+
+Nicholas Landry, Jean-Gabriel Young, and <b>NE</b>. The Simpliciality of Higher Order Networks. EPJ Data Sci. 13, 17 (2024)
+[EPJ Data Science](https://doi.org/10.1140/epjds/s13688-024-00458-1), [arXiv](https://arxiv.org/abs/2308.13918)
+
+Phil Chodrow, <b>NE</b>, and Jamie Haddock. Nonbacktracking spectral clustering of nonuniform hypergraphs. SIAM Journal on Mathematics of Data Science, 5 (3), 251-279 (2023) [SIAM](https://doi.org/10.1137/22M1494713), [arXiv](https://arxiv.org/abs/2204.13586)
+
+Lilith Hafner, Chase Holdener, and <b>NE</b>. Functional Ball Dropping: A superfast hypergraph generation scheme. 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, (2022) pp4606-4615 [IEEE](https://ieeexplore.ieee.org/abstract/document/10020506)
+
+Riti Bahl, <b>NE</b>, Alexandra Fraser, Matthew Junge, Felicia Keesing, Kukai Nakahata, Lily Z. Wang. Modeling COVID-19 Spread in Small Colleges. PLOS ONE 16 (8) e0255654. August (2021) [PLOS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255654), [arXiv](https://arxiv.org/abs/2008.09597)
+
+Erin Beckman, Keisha Cook, <b>NE</b>, Sarai Hernandez-Torres, Matthew Junge. Chase Escape with Death on Trees. Annals of Probability, 49 (5), 2530-2547 (17 pages). July (2021) [Project Euclid](https://projecteuclid.org/journals/annals-of-probability/volume-49/issue-5/Chase-escape-with-death-on-trees/10.1214/21-AOP1514.full), [arXiv](https://arxiv.org/abs/1909.01722)
+
+
+Mari Kawakatsu, Philip S. Chodrow, <b>NE</b>, Daniel B. Larremore. Emergence of Hierarchy in Networked Endorsement Dynamics. PNAS, 118 (16), April (2021) [PNAS](https://www.pnas.org/doi/10.1073/pnas.2015188118), [arXiv](https://arxiv.org/abs/2007.04448)
+
+
+Miju Ahn, <b>NE</b>, Jamie Haddock, Lara Kassab, Alona Kryshchenko, Kathryn Leonard, Deanna Needell, R.W.M.A. Madushani, Elena Sizikova, Chuntian Wang. On Large-Scale Dynamic Topic Modeling with Nonnegative CP Tensor Decomposition. In Demir, Ilke, Lou, Yifei, Wang, Xu, and Welker, Kathrin (Eds.), Advances in Data Science. Springer International Publishing. December (2021) [Springer](https://link.springer.com/chapter/10.1007/978-3-030-79891-8_8), [arXiv](https://arxiv.org/abs/2001.00631)
+
+
+<b>NE</b> and David F. Gleich. Classes of Preferential Attachment and Triangle Preferential Attachment Models with Power-law Spectra. Journal of Complex Networks. October (2019) [Journal of Complex Networks](https://academic.oup.com/comnet/article-abstract/8/4/cnz040/5602986?redirectedFrom=fulltext), [arXiv](https://arxiv.org/abs/1904.12989)
+
+Arjun S. Ramani, <b>NE</b>, and David F. Gleich. Coin-flipping, Ball-dropping, and Grass-hopping for Generating Random Graphs from Matrices of Edge Probabilities. SIAM Review, 61(3), 549-595 (47 pages). August (2019) [SIAM](https://epubs.siam.org/doi/10.1137/17M1127132), [arXiv](https://arxiv.org/abs/1709.03438)
+
+Anthony Bonato, <b>NE</b>, David F. Gleich, and Rehan Malik. Centrality in Dynamic Competition Networks. In: Cherifi H., Gaito S., Mendes J., Moro E., Rocha L. (eds), Complex Networks and Their Applications VIII. COMPLEX NETWORKS 2019. Studies in Computational Intelligence, vol 882. Springer, Cham. November (2019) [NSF](https://par.nsf.gov/biblio/10175929), [arXiv](https://arxiv.org/abs/1909.06810)
+
+<b>NE</b>, Arjun S. Ramani, and David F. Gleich. The HyperKron Graph Model for Higher Order Features. In Proceedings of the International Conference on Data Mining (ICDM), pages 941-946, (2018) doi: 10.1109/ICDM.2018.00115 [arXiv](https://arxiv.org/abs/1809.03488)
+
+Anthony Bonato, <b>NE</b>, David F. Gleich, and Rehan Malik. Dynamic Competition Networks: detecting alliances and leaders. In Anthony Bonato, Pawel Pralat, and Andrei Raigorodskii, editors, Algorithms and Models for the Web Graph, pages 115–144, (2018) [Springer](https://link.springer.com/chapter/10.1007/978-3-319-92871-5_9), [arXiv](https://arxiv.org/abs/1803.01783)
+
+<b>NE</b> and David F. Gleich. Revisiting Power-law Distributions in Spectra of Real World Networks. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’17, pages 817–826. ACM, New York, NY, USA, (2017) [ACM](https://dl.acm.org/doi/10.1145/3097983.3098128)

@@ -11,7 +11,7 @@ My research has previously been funded by the NSF and the Research Corporation f
 :::
 
 ::: {#second-column}
-![](eikmeier.jpg)
+![](eikmeier.jpg){fig-alt="A headshot of Dr. Nicole Eikmeier"}
 :::
 
 ::::
