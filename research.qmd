@@ -1,5 +1,17 @@
 ---
 title: "Research"
 ---
+#### News
 
-Research Info
+
+#### Publications
+
+Nicholas Landry, Jean-Gabriel Young, and Nicole Eikmeier. The Simpliciality of Higher Order Networks. EPJ Data Sci. 13, 17 (2024) doi: https://doi.org/10.1140/epjds/s13688-024-00458-1
+
+
+#### Summer MAPs
+
+I am not planning on taking students for summer 2027. 
+
+#### 
+

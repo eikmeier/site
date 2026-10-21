@@ -19,21 +19,21 @@ Spring 2020,
 Fall 2019
 
 #### 161: Imperative Problem Solving 
-> Our secpmd semester computer science class, taught in 
+> Our second semester computer science class, taught in 
 C.
 
 #### 208: Discrete Structures
 > Traditional math for a computer science major, Calculus 1 is a prerequisite. Covers proof techniques among other things. 
 
 #### 301: Analysis of Algorithms
-> Covers advanced algorithms and data structures, and thorough understanding of runtime and space analysis. Prerequisites include Discrete structures and Data Structures (CS 207 at Grinnell)
+> Covers advanced algorithms and data structures, and thorough understanding of runtime and space analysis. Prerequisites include Discrete structures and Data Structures (CS 207 at Grinnell).
 
 #### 331: Algorithms, Ethics, and Society
-> We attempt to understand the ramifications of technology on society, especially focused on the lens of identity.
+> We attempt to understand the ramifications of technology on society, especially focused on the lens of identity. Prerequisites include Data Structures (CS 207 at Grinnell).
 Fall 2025, Fall 2023
 
 #### 341: Automata, Formal Languages, and Computational Complexity
-> Covers Regular Languages, Turing Machines, Complexity Theory, Undecidability, etc. 
+> Covers Regular Languages, Turing Machines, Complexity Theory, Undecidability, etc. Prerequisites include Discrete structures and Data Structures (CS 207 at Grinnell).
 
 #### Tutorial
 > This is the first semester course at Grinnell College that all students are required to take. Faculty teach writing, speaking, and research fundamentals through a topic of their choice. Fall 2021
